@@ -102,3 +102,21 @@ pyinstaller --noconsole --onefile --name "發票重新命名工具" main.py
 ```bash
 pyinstaller --noconsole --onefile --icon=app_icon.ico --name "發票重新命名工具" main.py
 ```
+
+## 使用說明
+
+### 第一步: 打開App
+![image](./assets/step1.png)
+
+### 第二步: App裡面選擇Excel檔案
+這邊的Excel檔案需要有兩欄，一欄是掃描檔名，一欄是新的檔名
+![image](./assets/step2.png)
+作為Excel的範例： 
+![image](./assets/step3.png)
+
+### 第三步: 選擇PDF檔案資料夾
+![image](./assets/step4.png)
+
+### 第四步: 點擊開始重新命名
+這邊會跳出彈窗提示成功與失敗的件數。
+![image](./assets/step5.png)
