@@ -1,0 +1,8 @@
+/dist
+/build
+*.spec
+
+*.log
+.env
+env/
+venv/
