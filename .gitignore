@@ -9,3 +9,9 @@ venv/
 
 .csv
 .xlsx
+
+/to_renamed
+/renaming_excel
+.csv
+
+.vscode
